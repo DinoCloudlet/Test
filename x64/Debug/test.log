@@ -1,0 +1,10 @@
+﻿  Moc'ing mainwindow.h...
+  Uic'ing mainwindow.ui...
+  moc_mainwindow.cpp
+  main.cpp
+d:\eigene dateien\documents\test\viewerwidget.h(84): warning C4100: 'event': unreferenced formal parameter
+main.cpp(20): warning C4189: 'viewWidget': local variable is initialized but not referenced
+main.cpp(7): warning C4189: 'i': local variable is initialized but not referenced
+  mainwindow.cpp
+  Generating Code...
+  test.vcxproj -> D:\Eigene Dateien\Documents\test\debug\OSG_Widget.exe
