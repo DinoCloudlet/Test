@@ -9,6 +9,7 @@
 #include <osgViewer/ViewerEventHandlers>
 #include <osgGA/MultiTouchTrackballManipulator>
 #include <osgQt/GraphicsWindowQt>
+
 typedef osgQt::GraphicsWindowQt* gWindow;
 
 class ViewerWidget : public QWidget, public osgViewer::CompositeViewer
